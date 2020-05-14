@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\obj\Debug\netcoreapp3.1\MaizeProject.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\obj\Debug\netcoreapp3.1\MaizeProject.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\obj\Debug\netcoreapp3.1\MaizeProject.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\obj\Debug\netcoreapp3.1\MaizeProject.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\bin\Debug\netcoreapp3.1\MaizeProject.exe
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\bin\Debug\netcoreapp3.1\MaizeProject.deps.json
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\bin\Debug\netcoreapp3.1\MaizeProject.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\bin\Debug\netcoreapp3.1\MaizeProject.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\bin\Debug\netcoreapp3.1\MaizeProject.dll
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\bin\Debug\netcoreapp3.1\MaizeProject.pdb
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\obj\Debug\netcoreapp3.1\MaizeProject.dll
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\obj\Debug\netcoreapp3.1\MaizeProject.pdb
+C:\Users\Tech Jargon\source\repos\MaizeProject\MaizeProject\obj\Debug\netcoreapp3.1\MaizeProject.genruntimeconfig.cache
